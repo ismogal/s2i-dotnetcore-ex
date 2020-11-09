@@ -14392,6 +14392,11 @@
   "RootNamespace": "app",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ISMAILZABIULLAMOGAL\\dotnet-s2i\\s2i-dotnetcore-ex\\app\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ISMAILZABIULLAMOGAL\\dotnet-s2i\\s2i-dotnetcore-ex\\app\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
